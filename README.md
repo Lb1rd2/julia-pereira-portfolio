@@ -4,7 +4,7 @@
 
 # Julia Pereira
 
-### I build secure software and APIs, Pentest and fix vulnerabilities before attackers can exploit them.
+I build secure software and APIs, Pentest and fix vulnerabilities before attackers can exploit them.
 
 ## FULL-STACK DEVELOPER · PENETRATION TESTER · APPSEC (CEH & CASA CERTIFIED)
 
@@ -28,6 +28,7 @@ I'm a cybersecurity analyst and penetration tester who also builds the software 
 Helps Kenyan students and graduates find internships, attachments and entry-level jobs, build ATS-friendly CVs, prepare for interviews and track applications in one place.
 
 **Built with:** HTML · CSS · JavaScript · AI-powered matching
+
 [Live Project](https://chat.qwen.ai/s/deploy/t_4b7a324d-300c-40b1-a42d-b1979293599f) · 
 <img width="958" height="358" alt="KaziConnect screenshot" src="https://github.com/user-attachments/assets/b7a402fc-b378-4852-9790-066f72b3d45b" />
 
@@ -35,9 +36,10 @@ Helps Kenyan students and graduates find internships, attachments and entry-leve
 A retail app that tracks inventory in real time, records daily sales, and generates downloadable customer receipts. It has a secure login so only authorised staff can get in.
 
 **Built with:** HTML · CSS · JavaScript
-[🔗 Live demo](https://lb1rd2.github.io/pos/?) · 
+[Live Pos](https://lb1rd2.github.io/pos/) · 
 
-![POS dashboard screenshot](YOUR-POS-SCREENSHOT)
+![POS dashboard](<img width="959" height="364" alt="image" src="https://github.com/user-attachments/assets/e598a1cb-957e-47a0-a1f6-12416acb87d5" />
+)
 
 ### 3. Secure Portfolio Website: built, then attacked
 A responsive portfolio I built from scratch, then security-tested myself: XSS, SQL injection, input validation, auth logic, HTTP security headers and deployment configuration.
