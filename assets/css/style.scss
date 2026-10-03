@@ -1,0 +1,19 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+table {
+  width: 100% !important;
+  display: table !important;
+  border: 2px solid #888 !important;
+  border-radius: 10px;
+  border-collapse: separate !important;
+  border-spacing: 0;
+  margin-bottom: 24px;
+}
+
+td {
+  border: none !important;
+  padding: 16px !important;
+}
