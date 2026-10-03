@@ -90,8 +90,7 @@ A responsive portfolio I built from scratch, then security-tested myself: XSS, S
 **Built with:** HTML5 · CSS3 · JavaScript · Git & GitHub
 [Live site](https://techielbird.github.io/julia-pereira-portfolio/) · 
 
-![Portfolio screenshot](<img width="959" height="404" alt="image" src="https://github.com/user-attachments/assets/b7aa65b7-d6d1-41b9-bde8-c897c3a863e2" />
-)
+![Portfolio screenshot](https://github.com/user-attachments/assets/b7aa65b7-d6d1-41b9-bde8-c897c3a863e2)
 
 
 
@@ -123,8 +122,8 @@ A responsive portfolio I built from scratch, then security-tested myself: XSS, S
 
 ## 🎓 Certifications & education
 
-| Credential | Issuer | Status |
-|------------|--------|--------|
+| Credential | Issuer | ---
+|------------|--------|----
 | Certified Ethical Hacker (CEH) | Pearson |
 | Certified API Security Analyst (CASA) | APIsec University |
 | Security Analyst | Cyber Shujaa |
