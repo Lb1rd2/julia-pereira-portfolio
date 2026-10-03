@@ -1,15 +1,14 @@
 <div align="center" markdown="1">
 
-<img src="YOUR-PHOTO-URL" alt="Juliana Joseph" width="140" style="border-radius:50%" />
+<img src="YOUR-PHOTO-URL" alt="" width="140" style="border-radius:50%" />
 
 # Julia Pereira
 
 ### I build secure software and APIs, Pentest and fix vulnerabilities before attackers can exploit them.
 
-Full-Stack Developer · Penetration Tester · AppSec (CEH & CASA certified)
-Based in Nairobi, Kenya 🇰🇪
+## FULL-STACK DEVELOPER · PENETRATION TESTER · APPSEC (CEH & CASA CERTIFIED)
 
-[📄 CV](YOUR-CV-LINK) · [📧 Email](mailto:julia.pereira.joseph@gmail.com) · [💬 WhatsApp](https://wa.me/254792503697) · [📞 Call](tel:+254792503697) · 
+[CV](YOUR-CV-LINK) · [Email](mailto:julia.pereira.joseph@gmail.com) · [WhatsApp](https://wa.me/254792503697) · [Call](tel:+254792503697) · 
 
 </div>
 
@@ -30,8 +29,7 @@ Helps Kenyan students and graduates find internships, attachments and entry-leve
 
 **Built with:** HTML · CSS · JavaScript · AI-powered matching
 [Live Project](https://chat.qwen.ai/s/deploy/t_4b7a324d-300c-40b1-a42d-b1979293599f) · 
-![KaziConnect screenshot](<img width="958" height="358" alt="image" src="https://github.com/user-attachments/assets/b7a402fc-b378-4852-9790-066f72b3d45b" />
-)
+<img width="958" height="358" alt="KaziConnect screenshot" src="https://github.com/user-attachments/assets/b7a402fc-b378-4852-9790-066f72b3d45b" />
 
 ### 2. Point of Sale (POS) System: retail made simple
 A retail app that tracks inventory in real time, records daily sales, and generates downloadable customer receipts. It has a secure login so only authorised staff can get in.
