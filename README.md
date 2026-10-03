@@ -20,7 +20,6 @@ I build secure software and APIs, pen test them, and fix vulnerabilities before 
 </tr>
 </table>
 
----
 
 <table width="100%">
 <tr>
@@ -32,7 +31,6 @@ I'm a cybersecurity analyst and penetration tester who also builds the software 
 
 **Open to:** security assessments, secure web development, and full-time roles in AppSec or penetration testing.
 
----
 
 
 </td>
@@ -41,6 +39,10 @@ I'm a cybersecurity analyst and penetration tester who also builds the software 
 
 ## Projects
 
+<table width="100%">
+<tr>
+<td markdown="1">
+
 ### 1. KaziConnect: AI career platform for Kenyan students
 Helps Kenyan students and graduates find internships, attachments and entry-level jobs, build ATS-friendly CVs, prepare for interviews and track applications in one place.
 
@@ -48,6 +50,15 @@ Helps Kenyan students and graduates find internships, attachments and entry-leve
 
 [Live Project](https://chat.qwen.ai/s/deploy/t_4b7a324d-300c-40b1-a42d-b1979293599f) · 
 <img width="958" height="358" alt="KaziConnect screenshot" src="https://github.com/user-attachments/assets/b7a402fc-b378-4852-9790-066f72b3d45b" />
+
+
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td markdown="1">
 
 ### 2. Point of Sale (POS) System: retail made simple
 A retail app that tracks inventory in real time, records daily sales, and generates downloadable customer receipts. It has a secure login so only authorised staff can get in.
@@ -58,6 +69,17 @@ A retail app that tracks inventory in real time, records daily sales, and genera
 ![<img width="959" height="364" alt="image" src="https://github.com/user-attachments/assets/84889a80-3cd1-4863-91ad-3f921b8ee9e3" />
 ](https://github.com/user-attachments/assets/e598a1cb-957e-47a0-a1f6-12416acb87d5)
 
+
+
+</td>
+</tr>
+</table>
+
+
+<table width="100%">
+<tr>
+<td markdown="1">
+
 ### 3. Secure Portfolio Website: built, then attacked
 A responsive portfolio I built from scratch, then security-tested myself: XSS, SQL injection, input validation, auth logic, HTTP security headers and deployment configuration.
 
@@ -66,7 +88,11 @@ A responsive portfolio I built from scratch, then security-tested myself: XSS, S
 
 ![Portfolio screenshot](YOUR-PORTFOLIO-SCREENSHOT)
 
----
+
+
+</td>
+</tr>
+</table>
 
 <table width="100%">
 <tr>
@@ -80,8 +106,6 @@ A responsive portfolio I built from scratch, then security-tested myself: XSS, S
 | **Tools** | Burp Suite · OWASP ZAP · Metasploit · Nmap · Wireshark · Nessus · Gobuster · Postman |
 | **Development** | HTML5 · CSS3 · JavaScript · Python · Git & GitHub |
 | **Standards** | OWASP Top 10 · OWASP API Security Top 10 |
-
----
 
 
 </td>
@@ -104,12 +128,16 @@ A responsive portfolio I built from scratch, then security-tested myself: XSS, S
 
 **Hands-on practice:** TryHackMe · Hack The Box
 
----
 
 
 </td>
 </tr>
 </table>
+
+
+<table width="100%">
+<tr>
+<td markdown="1">
 
 ## 📬 Let's work together
 
@@ -118,3 +146,8 @@ Need a secure system built, or an audit of what you already have?
 - 📧 **Email:** [YOUR-EMAIL](mailto:julia.pereira.joseph@gmail.com)
 - 💬 **WhatsApp:** [Chat now](https://wa.me/254792503697)
 - 📞 **Phone:** [+254 XXX XXX XXX](tel:+254792503697)
+
+
+</td>
+</tr>
+</table>
