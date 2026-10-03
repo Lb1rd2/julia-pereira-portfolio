@@ -2,7 +2,7 @@
 
 <img src="YOUR-PHOTO-URL" alt="" width="140" style="border-radius:50%" />
 
-# Julia Pereira
+# JULIA PEREIRA
 
 I build secure software and APIs, Pentest and fix vulnerabilities before attackers can exploit them.
 
