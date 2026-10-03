@@ -38,8 +38,8 @@ A retail app that tracks inventory in real time, records daily sales, and genera
 **Built with:** HTML · CSS · JavaScript
 [Live Pos](https://lb1rd2.github.io/pos/) · 
 
-![POS dashboard](<img width="959" height="364" alt="image" src="https://github.com/user-attachments/assets/e598a1cb-957e-47a0-a1f6-12416acb87d5" />
-)
+![<img width="959" height="364" alt="image" src="https://github.com/user-attachments/assets/84889a80-3cd1-4863-91ad-3f921b8ee9e3" />
+](https://github.com/user-attachments/assets/e598a1cb-957e-47a0-a1f6-12416acb87d5)
 
 ### 3. Secure Portfolio Website: built, then attacked
 A responsive portfolio I built from scratch, then security-tested myself: XSS, SQL injection, input validation, auth logic, HTTP security headers and deployment configuration.
