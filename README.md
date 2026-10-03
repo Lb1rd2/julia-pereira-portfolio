@@ -21,6 +21,11 @@ I build secure software and APIs, pen test them, and fix vulnerabilities before 
 </table>
 
 ---
+
+<table width="100%">
+<tr>
+<td markdown="1">
+
 ## About me
 
 I'm a cybersecurity analyst and penetration tester who also builds the software I test. I focus on web application and API security: finding vulnerabilities before launch and helping teams fix them.
@@ -28,6 +33,11 @@ I'm a cybersecurity analyst and penetration tester who also builds the software 
 **Open to:** security assessments, secure web development, and full-time roles in AppSec or penetration testing.
 
 ---
+
+
+</td>
+</tr>
+</table>
 
 ## Projects
 
@@ -58,6 +68,10 @@ A responsive portfolio I built from scratch, then security-tested myself: XSS, S
 
 ---
 
+<table width="100%">
+<tr>
+<td markdown="1">
+
 ## 🛡️ What I do
 
 | Area | Details |
@@ -68,6 +82,15 @@ A responsive portfolio I built from scratch, then security-tested myself: XSS, S
 | **Standards** | OWASP Top 10 · OWASP API Security Top 10 |
 
 ---
+
+
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td markdown="1">
 
 ## 🎓 Certifications & education
 
@@ -82,6 +105,11 @@ A responsive portfolio I built from scratch, then security-tested myself: XSS, S
 **Hands-on practice:** TryHackMe · Hack The Box
 
 ---
+
+
+</td>
+</tr>
+</table>
 
 ## 📬 Let's work together
 
