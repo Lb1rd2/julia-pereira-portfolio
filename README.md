@@ -37,7 +37,11 @@ I'm a cybersecurity analyst and penetration tester who also builds the software 
 </tr>
 </table>
 
-## Projects
+<div align="center" markdown="1">
+
+## PROJECTS
+
+</div>
 
 <table width="100%">
 <tr>
