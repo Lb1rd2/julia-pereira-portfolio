@@ -1,21 +1,21 @@
-<div align="center">
+<div align="center" markdown="1">
 
 <img src="YOUR-PHOTO-URL" alt="Juliana Joseph" width="140" style="border-radius:50%" />
 
-# Juliana Joseph
+# Julia Pereira
 
-### I build secure web apps, and I break them first so attackers can't.
+### I build secure software and APIs, Pentest and fix vulnerabilities before attackers can exploit them.
 
 Full-Stack Developer · Penetration Tester · AppSec (CEH & CASA certified)
 Based in Nairobi, Kenya 🇰🇪
 
-[📄 CV](YOUR-CV-LINK) · [📧 Email](mailto:YOUR-EMAIL) · [💬 WhatsApp](https://wa.me/254XXXXXXXXX) · [📞 Call](tel:+254XXXXXXXXX) · [🌐 Portfolio](YOUR-PORTFOLIO-LINK)
+[📄 CV](YOUR-CV-LINK) · [📧 Email](mailto:julia.pereira.joseph@gmail.com) · [💬 WhatsApp](https://wa.me/254792503697) · [📞 Call](tel:+254792503697) · 
 
 </div>
 
 ---
 
-## 👋 About me
+## About me
 
 I'm a cybersecurity analyst and penetration tester who also builds the software I test. I focus on web application and API security: finding vulnerabilities before launch and helping teams fix them.
 
@@ -23,21 +23,21 @@ I'm a cybersecurity analyst and penetration tester who also builds the software 
 
 ---
 
-## 🚀 Projects
+## Projects
 
 ### 1. KaziConnect: AI career platform for Kenyan students
 Helps Kenyan students and graduates find internships, attachments and entry-level jobs, build ATS-friendly CVs, prepare for interviews and track applications in one place.
 
 **Built with:** HTML · CSS · JavaScript · AI-powered matching
-[🔗 Live demo](YOUR-KAZICONNECT-LINK) · [💻 Code](YOUR-KAZICONNECT-REPO)
-
-![KaziConnect screenshot](YOUR-KAZICONNECT-SCREENSHOT)
+[Live Project](https://chat.qwen.ai/s/deploy/t_4b7a324d-300c-40b1-a42d-b1979293599f) · 
+![KaziConnect screenshot](<img width="958" height="358" alt="image" src="https://github.com/user-attachments/assets/b7a402fc-b378-4852-9790-066f72b3d45b" />
+)
 
 ### 2. Point of Sale (POS) System: retail made simple
 A retail app that tracks inventory in real time, records daily sales, and generates downloadable customer receipts. It has a secure login so only authorised staff can get in.
 
 **Built with:** HTML · CSS · JavaScript
-[🔗 Live demo](YOUR-POS-LINK) · [💻 Code](YOUR-POS-REPO)
+[🔗 Live demo](https://lb1rd2.github.io/pos/?) · 
 
 ![POS dashboard screenshot](YOUR-POS-SCREENSHOT)
 
@@ -45,7 +45,7 @@ A retail app that tracks inventory in real time, records daily sales, and genera
 A responsive portfolio I built from scratch, then security-tested myself: XSS, SQL injection, input validation, auth logic, HTTP security headers and deployment configuration.
 
 **Built with:** HTML5 · CSS3 · JavaScript · Git & GitHub
-[🔗 Live site](YOUR-PORTFOLIO-LINK) · [💻 Code](YOUR-PORTFOLIO-REPO)
+[🔗 Live site](https://techielbird.github.io/julia-pereira-portfolio/) · [💻 Code](YOUR-PORTFOLIO-REPO)
 
 ![Portfolio screenshot](YOUR-PORTFOLIO-SCREENSHOT)
 
@@ -80,6 +80,6 @@ A responsive portfolio I built from scratch, then security-tested myself: XSS, S
 
 Need a secure system built, or an audit of what you already have?
 
-- 📧 **Email:** [YOUR-EMAIL](mailto:YOUR-EMAIL)
-- 💬 **WhatsApp:** [Chat now](https://wa.me/254XXXXXXXXX)
-- 📞 **Phone:** [+254 XXX XXX XXX](tel:+254XXXXXXXXX)
+- 📧 **Email:** [YOUR-EMAIL](mailto:julia.pereira.joseph@gmail.com)
+- 💬 **WhatsApp:** [Chat now](https://wa.me/254792503697)
+- 📞 **Phone:** [+254 XXX XXX XXX](tel:+254792503697)
