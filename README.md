@@ -4,24 +4,23 @@
 
 <div align="center" markdown="1">
 
-<img src="YOUR-PHOTO-URL" alt="" width="140" style="border-radius:50%" />
+<img src="YOUR-PHOTO-URL" alt="Julia Pereira" width="140" style="border-radius:50%" />
 
 # JULIA PEREIRA
 
-I build secure software and APIs, Pentest and fix vulnerabilities before attackers can exploit them.
+I build secure software and APIs, pen test them, and fix vulnerabilities before attackers can exploit them.
 
-## FULL-STACK DEVELOPER · PENETRATION TESTER · APPSEC (CEH & CASA CERTIFIED)
+**FULL-STACK DEVELOPER · PENETRATION TESTER · APPSEC (CEH & CASA CERTIFIED)**
 
-[CV](YOUR-CV-LINK) · [Email](mailto:julia.pereira.joseph@gmail.com) · [WhatsApp](https://wa.me/254792503697) · [Call](tel:+254792503697) · 
+[CV](YOUR-CV-LINK) · [Email](mailto:julia.pereira.joseph@gmail.com) · [WhatsApp](https://wa.me/254792503697) · [Call](tel:+254792503697)
 
 </div>
-
 
 </td>
 </tr>
 </table>
----
 
+---
 ## About me
 
 I'm a cybersecurity analyst and penetration tester who also builds the software I test. I focus on web application and API security: finding vulnerabilities before launch and helping teams fix them.
