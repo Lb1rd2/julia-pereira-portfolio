@@ -8,7 +8,7 @@
 
 # JULIA PEREIRA
 
-I build secure software and APIs, pen test them, and fix vulnerabilities before attackers can exploit them.
+I build secure software and APIs, pentest them, and fix vulnerabilities before attackers can exploit them.
 
 **FULL-STACK DEVELOPER · PENETRATION TESTER · APPSEC (CEH & CASA CERTIFIED)**
 
@@ -27,7 +27,7 @@ I build secure software and APIs, pen test them, and fix vulnerabilities before 
 
 ## About me
 
-I'm a cybersecurity analyst and penetration tester who also builds the software I test. I focus on web application and API security: finding vulnerabilities before launch and helping teams fix them.
+I'm a cybersecurity analyst and penetration tester with full-stack software engineering expertise, specializing in web application and API security. I find vulnerabilities before launch and work with teams to fix them.
 
 **Open to:** security assessments, secure web development, and full-time roles in AppSec or penetration testing.
 
