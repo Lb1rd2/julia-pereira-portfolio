@@ -29,7 +29,7 @@ I build secure software and APIs, pentest them, and fix vulnerabilities before a
 
 I'm a cybersecurity analyst and penetration tester with full-stack software engineering expertise, specializing in web application and API security. I find vulnerabilities before launch and work with teams to fix them.
 
-**Open to:** security assessments, secure web development, and full-time roles in AppSec or penetration testing.
+<span style="color:#00cc66;"><b>Open to:</b> security assessments, secure web development, and full-time roles in AppSec or penetration testing.</span>
 
 
 
