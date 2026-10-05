@@ -12,7 +12,7 @@ I build secure software and APIs, pentest them, and fix vulnerabilities before a
 
 **FULL-STACK DEVELOPER · PENETRATION TESTER · APPSEC (CEH & CASA CERTIFIED)**
 
-[CV](YOUR-CV-LINK) · [Email](mailto:julia.pereira.joseph@gmail.com) · [WhatsApp](https://wa.me/254792503697) · [Call](tel:+254792503697)
+[CV](YOUR-CV-LINK) · [Email](mailto:julia.pereira.joseph@gmail.com) · [WhatsApp](https://api.whatsapp.com/send?phone=254792503697) · [Call](tel:+254792503697)
 
 </div>
 
