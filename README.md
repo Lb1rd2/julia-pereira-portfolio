@@ -4,7 +4,7 @@
 
 <div align="center" markdown="1">
 
-<img src="YOUR-PHOTO-URL" alt="Julia Pereira" width="140" style="border-radius:50%" />
+<!-- <img src="YOUR-PHOTO-URL" alt="Julia Pereira" width="140" style="border-radius:50%" /> -->
 
 # JULIA PEREIRA
 
